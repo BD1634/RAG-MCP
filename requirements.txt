@@ -1,0 +1,6 @@
+mcp-server
+chromadb
+langchain-community
+python-dotenv
+sentence-transformers
+PyPDF2
